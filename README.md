@@ -1,2 +1,2 @@
 # ShellPrograms
-My all shellscriipts
+My all shellscripts
